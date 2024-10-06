@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'Cormorant-Bold';
+    src: url('/fonts/Cormorant-Bold.ttf') format('truetype');
+    /* font-weight: bold; */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cormorant-Medium';
+    src: url('/fonts/Cormorant-Medium.ttf') format('truetype');
+    /* font-weight: bold; */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cormorant-Regular';
+    src: url('/fonts/Cormorant-Regular.ttf') format('truetype');
+    /* font-weight: bold; */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cormorant-LightItalic';
+    src: url('/fonts/Cormorant-LightItalic.ttf') format('truetype');
+    /* font-weight: 100; */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MADECanvas';
+    src: url('/fonts/MADECanvas.ttf') format('truetype');
+    /* font-weight: bold; */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TTDrugs-Bold';
+    src: url('/fonts/TTDrugs-Bold.ttf') format('truetype');
+    /* font-weight: 100; */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TTDrugsRegular';
+    src: url('/fonts/TTDrugsRegular.ttf') format('truetype');
+    /* font-weight: 100; */
+    font-style: normal;
+}
+
+
+/* @font-face {
+    font-family: 'Cormorant';
+    src: url('/fonts/Cormorant-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cormorant';
+    src: url('/fonts/Cormorant-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+} */
